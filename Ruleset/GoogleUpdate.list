@@ -2,3 +2,4 @@
 DOMAIN-SUFFIX,update.googleapis.com
 PROCESS-NAME,GoogleUpdate.exe
 PROCESS-NAME,GoogleSoftwareUpdate
+PROCESS-NAME,GoogleUpdater
