@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,update.googleapis.com
 PROCESS-NAME,GoogleUpdate.exe
 PROCESS-NAME,GoogleSoftwareUpdate
 PROCESS-NAME,GoogleUpdater
+PROCESS-PATH-REGEX,.*Program\sFiles.*Google.*updater.exe
+PROCESS-PATH-REGEX,.*Program\sFiles.*Google.*GoogleUpdate.exe
