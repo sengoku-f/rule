@@ -1,0 +1,4 @@
+# chrome 更新
+DOMAIN-SUFFIX,update.googleapis.com
+PROCESS-NAME,GoogleUpdate.exe
+PROCESS-NAME,GoogleSoftwareUpdate

@@ -1,0 +1,10 @@
+# Windows
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,Tailscale Service.exe
+PROCESS-NAME,tailscale-ipn.exe
+# Mac
+PROCESS-NAME,tailscale
+PROCESS-NAME,tailscaled
+# ip
+IP-CIDR,100.64.0.0/10,no-resolve
