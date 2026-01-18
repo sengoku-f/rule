@@ -1,5 +1,6 @@
 # Google 更新服务
 DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN-SUFFIX,edgedl.me.gvt1.com
 PROCESS-NAME,GoogleUpdate.exe
 PROCESS-NAME,GoogleSoftwareUpdate
 PROCESS-NAME,GoogleUpdater
